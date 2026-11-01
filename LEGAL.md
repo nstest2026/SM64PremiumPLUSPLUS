@@ -1,0 +1,1 @@
+"This project is a non-commercial, fan-made mod/port. It is not affiliated with or endorsed by Nintendo. All original game logic belongs to its respective copyright holders. Source code is made available solely for educational and modding purposes."
